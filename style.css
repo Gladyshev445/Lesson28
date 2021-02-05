@@ -1,0 +1,48 @@
+.simpl{
+    background-color: rgb(103, 103, 255);
+    width: 1460px;
+    height: 265px;
+    margin-top: 25px;
+    margin-left: 190px;
+}
+.simpl2{
+    width: 1450px;
+    height: 255px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: blue;
+    position: absolute;
+}
+.content{
+    width: 1500px;
+    height: 550px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 190px;
+}
+.in{
+    width: 255px;
+    height: 540px;
+    background-color: rgb(255, 136, 136);
+}
+.inin{
+    width: 245px;
+    height: 530px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: red;
+}
+.in2{
+    width: 1195px;
+    height: 540px;
+    margin-left: 20px;
+    background-color: rgb(146, 255, 146);
+}
+.inin2{
+    width: 1175px;
+    height: 520px;
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 10px;
+ 
+}
